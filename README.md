@@ -1,3 +1,14 @@
+## reference
+### https://www.youtube.com/watch?v=5sEXClpvL34
+### https://github.com/theatypicaldeveloper/materialUi-in-react/tree/lesson-10-data-grid/src/components/common
+### REACT FORM VALIDATION TECHNIQUE
+### React Hook Form
+### https://react-hook-form.com/
+### https://www.npmjs.com/package/@hookform/resolvers
+### https://www.npmjs.com/package/yup
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
